@@ -1,2 +1,54 @@
-# leetcode-solutions
-My personal LeetCode solutions across DSA, Database, and Maths problems using C, C++, SQL (MySQL, Oracle). This repository reflects my problem-solving practice for technical interview preparation.
+# LeetCode Solutions Repository 🚀
+
+This repository contains my personal solutions to LeetCode problems.
+
+The solutions are written in multiple languages including:
+
+- C++
+- C
+- MySQL
+- Oracle SQL
+
+These problems cover various topics such as:
+
+- Data Structures and Algorithms
+- Database Queries
+- Mathematics
+- Logical Problems
+
+---
+
+## 📌 Purpose
+
+The main purpose of this repository is to:
+
+- Practice problem solving
+- Prepare for coding interviews
+- Track my progress
+- Maintain consistency
+
+---
+
+## Repository Structure
+
+Solutions are organized based on topic and language.
+
+Example:
+
+DSA/
+
+Database/
+
+Maths/
+
+---
+
+## Note
+
+These are my personal solutions. Explanations and optimized approaches may be added in the future.
+
+---
+
+## 🔗 LeetCode Profile
+
+https://leetcode.com/yourusername/
