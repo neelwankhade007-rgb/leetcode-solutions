@@ -51,4 +51,4 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 
 ## 🔗 LeetCode Profile
 
-](https://leetcode.com/u/NeelWankhade/)
+(https://leetcode.com/u/NeelWankhade/)
