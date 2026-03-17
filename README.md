@@ -33,14 +33,6 @@ The main purpose of this repository is to:
 
 Solutions are organized based on topic and language.
 
-Example:
-
-DSA/
-
-Database/
-
-Maths/
-
 ---
 
 ## Note
