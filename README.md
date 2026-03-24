@@ -67,4 +67,12 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
