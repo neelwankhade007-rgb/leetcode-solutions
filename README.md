@@ -73,6 +73,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +87,12 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
