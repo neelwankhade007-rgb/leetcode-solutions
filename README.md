@@ -51,6 +51,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -75,9 +76,14 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
