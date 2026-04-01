@@ -54,6 +54,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
@@ -101,6 +102,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Simulation
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
@@ -115,4 +117,12 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
+## Sorting
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
