@@ -58,6 +58,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +72,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +131,5 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 <!---LeetCode Topics End-->
