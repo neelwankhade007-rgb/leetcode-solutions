@@ -57,6 +57,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
 | ------- |
@@ -64,10 +65,12 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Prefix Sum
 |  |
 | ------- |
