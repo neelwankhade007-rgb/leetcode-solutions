@@ -55,6 +55,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -95,6 +96,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -149,4 +151,5 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
