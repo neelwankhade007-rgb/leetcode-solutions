@@ -57,6 +57,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [1848-minimum-distance-to-the-target-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -131,6 +132,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
