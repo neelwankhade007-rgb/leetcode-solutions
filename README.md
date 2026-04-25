@@ -64,6 +64,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -94,6 +95,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -153,10 +156,15 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
