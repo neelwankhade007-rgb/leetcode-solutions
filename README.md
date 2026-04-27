@@ -53,6 +53,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -71,6 +72,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -167,4 +169,16 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
