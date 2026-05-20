@@ -137,6 +137,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -199,6 +200,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
 ## Memoization
 |  |
