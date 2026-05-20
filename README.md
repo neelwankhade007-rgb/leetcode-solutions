@@ -215,4 +215,5 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
