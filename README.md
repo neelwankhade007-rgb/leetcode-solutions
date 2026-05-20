@@ -211,4 +211,8 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0070-climbing-stairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
