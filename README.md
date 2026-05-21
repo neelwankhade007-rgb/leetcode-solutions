@@ -68,6 +68,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -127,6 +128,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
@@ -155,6 +157,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0657-robot-return-to-origin](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
@@ -216,4 +219,8 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
