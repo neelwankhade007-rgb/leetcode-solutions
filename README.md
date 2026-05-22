@@ -53,6 +53,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0518-coin-change-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -117,6 +118,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -186,6 +188,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Geometry
