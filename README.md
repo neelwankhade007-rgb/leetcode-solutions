@@ -57,6 +57,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0518-coin-change-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -180,6 +181,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -193,6 +195,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Geometry
