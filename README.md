@@ -55,6 +55,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0518-coin-change-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +182,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -194,6 +196,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
