@@ -1,16 +1,14 @@
 class Solution {
-    public int fib(int n) {
+    int []dp;
+
+    public int solve(int n) {
         if (n <= 1) return n;
+        dp[n] = solve(n-1) + solve(n-2);
+        return dp[n];
+    }
 
-        int p2 = 0;  // fib(0) 
-        int p1 = 1;  // fib(1)
-
-        for (int i = 2; i <= n; i++) {
-            int curr = p1 + p2;
-            p2 = p1;
-            p1 = curr;
-        }
-
-        return p1;
+    public int fib(int n) {
+        dp = new int[n + 1];
+        return solve(n);
     }
 }
