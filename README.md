@@ -115,6 +115,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0189-rotate-array) |
