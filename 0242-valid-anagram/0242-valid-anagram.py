@@ -3,4 +3,4 @@ class Solution:
         if len(s) != len(t):
             return False
         else:
-            return Counter(s) == Counter(t)
+            return dict(Counter(s)) == dict(Counter(t))
