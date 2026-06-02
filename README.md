@@ -62,6 +62,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0189-rotate-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -132,6 +133,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -155,6 +157,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -219,6 +222,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
