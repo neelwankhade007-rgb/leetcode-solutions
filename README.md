@@ -52,6 +52,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -173,6 +174,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -263,6 +265,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
