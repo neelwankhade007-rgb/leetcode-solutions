@@ -175,6 +175,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0344-reverse-string) |
