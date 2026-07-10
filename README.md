@@ -83,6 +83,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -106,6 +107,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
@@ -138,6 +140,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -159,6 +162,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +193,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -210,6 +215,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2463-minimum-total-distance-traveled](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -230,6 +236,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -272,4 +279,8 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
