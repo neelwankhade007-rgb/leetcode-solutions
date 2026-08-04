@@ -87,6 +87,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
@@ -154,6 +155,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3731-find-missing-elements](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
@@ -220,6 +222,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
