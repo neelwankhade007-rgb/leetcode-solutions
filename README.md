@@ -134,6 +134,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
