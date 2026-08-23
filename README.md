@@ -130,6 +130,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -194,12 +195,14 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0344-reverse-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -297,6 +300,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
 ## Enumeration
 |  |
 | ------- |
