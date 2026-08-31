@@ -271,6 +271,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Memoization
 |  |
 | ------- |
