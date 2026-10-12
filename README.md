@@ -127,6 +127,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -183,6 +184,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -276,6 +278,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
