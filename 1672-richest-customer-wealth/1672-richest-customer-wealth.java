@@ -1,6 +1,6 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int maxSalary = 0;
+        int maxSalary = Integer.MIN_VALUE;
 
         for (int i = 0; i < accounts.length; i++) {
             int currentRowSum = 0;
@@ -9,7 +9,10 @@ class Solution {
                 currentRowSum += accounts[i][j];
             }
 
-            maxSalary = Math.max(currentRowSum, maxSalary);
+            // maxSalary = Math.max(currentRowSum, maxSalary);
+            if (currentRowSum > maxSalary)
+                maxSalary = currentRowSum;
+
         }
 
         return maxSalary;       
