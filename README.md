@@ -136,6 +136,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0070-climbing-stairs](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
@@ -194,6 +195,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -206,6 +208,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0125-valid-palindrome](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
