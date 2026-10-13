@@ -139,6 +139,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0412-fizz-buzz](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -184,6 +185,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0231-power-of-two](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
