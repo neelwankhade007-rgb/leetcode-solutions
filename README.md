@@ -268,6 +268,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0283-move-zeroes](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -294,6 +295,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0002-add-two-numbers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0876-middle-of-the-linked-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Memoization
 |  |
