@@ -67,6 +67,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -170,6 +171,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -242,6 +244,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0016-3sum-closest](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
