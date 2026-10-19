@@ -16,11 +16,13 @@ class Solution {
             }
         }
 
+        int count1 = 0;
+
         for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == el) count++;
+            if (nums[i] == el) count1++;
         }
 
-        if (count > nums.length / 2) {
+        if (count1 > nums.length / 2) {
             return el;
         } 
 
