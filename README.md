@@ -65,6 +65,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0088-merge-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -171,6 +172,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -184,6 +186,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
 |  |
@@ -244,6 +247,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0016-3sum-closest](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -346,4 +350,12 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
