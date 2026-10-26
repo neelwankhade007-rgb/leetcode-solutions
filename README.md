@@ -172,6 +172,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -302,6 +303,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 | [0002-add-two-numbers](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Memoization
@@ -358,4 +360,12 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
