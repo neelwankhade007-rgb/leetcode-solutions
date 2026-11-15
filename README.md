@@ -173,6 +173,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -215,6 +216,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -327,6 +329,7 @@ These are my personal solutions. Explanations and optimized approaches may be ad
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/neelwankhade007-rgb/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Graph Theory
